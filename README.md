@@ -1,3 +1,5 @@
+(this is a fork of [@InfernoEmbedded's fork](https://github.com/InfernoEmbedded/Deepnest) of [@Jack000's original project Deepnest](https://github.com/Jack000/Deepnest))
+
 <img src="https://deepnest.io/img/logo-large.png" alt="Deepnest" width="250">
 
 **Deepnest**: A fast, robust nesting tool for laser cutters and other CNC tools
